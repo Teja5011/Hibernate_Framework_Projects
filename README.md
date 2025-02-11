@@ -6,7 +6,7 @@ Hibernate framework for Java that simplifies database interactions. It maps Java
 
 # Advantages of Hibernate
 ---
-✅ Reduces Boilerplate Code – No need for repetitive JDBC code.
-✅ Database Independent – Supports multiple databases without changing code.
-✅ Better Performance – Uses caching and lazy loading.
+✅ Reduces Boilerplate Code – No need for repetitive JDBC code.<br>
+✅ Database Independent – Supports multiple databases without changing code.<br>
+✅ Better Performance – Uses caching and lazy loading.<br>
 ✅ Automatic Table Creation – Can generate tables from Java classes.
